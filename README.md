@@ -21,7 +21,7 @@
   </p>
 </p>
 
-## About OpenStatus 🏓
+## 关于 OpenStatus 🏓
 
 OpenStatus 是开源的综合监控监控平台。
 
@@ -86,14 +86,14 @@ Made with [Contrib.rocks](https://contrib.rocks)
 
 [![Built with Depot](https://depot.dev/badges/built-with-depot.svg)](https://depot.dev/?utm_source=Opource=OpenStatus)
 
-## Getting Started 🚀
+## 开始！ Getting Started 🚀
 
 ### Requirements
 
 - [Node.js](https://nodejs.org/en/) >= 20.0.0
 - [pnpm](https://pnpm.io/) >= 8.6.2
 
-### Setup
+### 设置 Setup
 
 1. Clone the repository
 
