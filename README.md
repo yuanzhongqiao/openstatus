@@ -23,6 +23,10 @@
 
 ## About OpenStatus 🏓
 
+OpenStatus 是开源的综合监控监控平台。
+
+综合监控：在全球范围内监控您的网站和 API 并接收 通知。
+
 OpenStatus is open-source synthetic monitoring monitoring platform.
 
 - **Synthetic monitoring**: Monitor your website and APIs globally and receive
